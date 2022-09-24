@@ -31,20 +31,20 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="ᕼEY TᕼEᖇE! I ᗩᗰ OᑎᒪIᑎE ᑎOᗯ :) \nᴵ ᵃᵐ ᵃ ᵘˢᵉʳ ᵇᵒᵗ ᶠᵒʳ ᵂʰᵃᵗˢᵃᵖᵖ \nʜᴀᴠᴇ ᴀ ɢʀᴇᴀᴛ ᴅᴀʏ!!!"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://img.uhdpaper.com/wallpaper/anonymous-hoodie-mask-digital-art-16@0@f-thumb.jpg?dl" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
+global.ownername = " 𝕽𝖖𝖝𝖟369 " //ur owner name
+global.owner = ['94702523487','']
+global.premium = ['94702523487','94702523487']
 global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
+global.ownername = '𝕽𝖖𝖝𝖟369'
+global.group1 = 'https://chat.whatsapp.com/'
+global.group2 = 'https://chat.whatsapp.com/'
 global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ytchannel = 'https://www.youtube.com/'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -56,8 +56,8 @@ global.dripstyping = false
 global.dripsreadgroup = false
 global.dripsreadall = false
 global.dripsrecord = false
-global.available = false
-global.unavailable = true
+global.available = true
+global.unavailable = false
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
